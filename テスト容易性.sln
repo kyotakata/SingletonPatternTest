@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "テスト容易性", "テスト容易性\テスト容易性.csproj", "{9354C9DD-77B6-4E23-AC86-6C43D7983968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "テスト容易性Tests", "テスト容易性Tests\テスト容易性Tests.csproj", "{EC33654A-12FE-4250-9D8F-30866216B292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9354C9DD-77B6-4E23-AC86-6C43D7983968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9354C9DD-77B6-4E23-AC86-6C43D7983968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9354C9DD-77B6-4E23-AC86-6C43D7983968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9354C9DD-77B6-4E23-AC86-6C43D7983968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC33654A-12FE-4250-9D8F-30866216B292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC33654A-12FE-4250-9D8F-30866216B292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC33654A-12FE-4250-9D8F-30866216B292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC33654A-12FE-4250-9D8F-30866216B292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {865808C3-D114-429A-B300-ABB8879B8EF7}
+	EndGlobalSection
+EndGlobal
